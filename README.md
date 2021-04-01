@@ -1,6 +1,9 @@
-# stepcount
+# Step Count App 
 
-A new Flutter application.
+A new Flutter application which I build to calculate my steps of my workout during the Lockdown. This was my first flutter app.
+
+![image](https://user-images.githubusercontent.com/67383465/113250828-df332c80-92de-11eb-963f-56da9fc4e8c5.png)
+
 
 ## Getting Started
 
