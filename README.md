@@ -1,4 +1,4 @@
-# Step Count App 
+# StepFit App (Android / iOS) 
 
 A new Flutter application which I build to calculate my steps of my workout during the Lockdown. This was my first flutter app.
 
